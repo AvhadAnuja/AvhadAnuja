@@ -23,6 +23,7 @@ Information Technology undergraduate with a strong foundation in full-stack deve
 
 ### 📌 Featured Projects
 - **[Smart Attendance System](https://github.com/Mr-raftar/Smart-Student-Attendance-Managment)** — Django-based smart attendance platform with role-based access, geofenced GPS validation, and subject-wise attendance tracking, built in collaboration with Kartik Chavan during college
+- **Smart Early Warning System for Disease Outbreak** — Final Year Project leveraging Machine Learning, Cloud Computing, and predictive analytics to detect potential disease outbreaks and generate early alerts for proactive public health response.
 
 ---
 
